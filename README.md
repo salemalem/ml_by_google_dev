@@ -24,4 +24,5 @@ pip install -r requirements.txt
 * pandas
 * numpy
 * scipy
+* jupyter (optional, but I used it.)
 ```
