@@ -12,3 +12,16 @@ activate
 ```
 deactivate
 ```
+
+## to install required pip packages
+```
+pip install -r requirements.txt
+```
+
+## required pip packages
+```
+* sklearn
+* pandas
+* numpy
+* scipy
+```
